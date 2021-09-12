@@ -75,6 +75,7 @@
         "username": "dcano@gmail.com",
         "password": "827ccb0eea8a706c4c34a16891f84e7b"
       }
+      
     ],
   
     "peliculas": [
@@ -147,13 +148,13 @@
         {
           "id": "7",
           "Type": "Infantil",
-          "Title": "PAW Patrol: The Movie ",
+          "Title": "PAW Patrol: The Movie",
           "Year": "2021",
           "Value": 8.1,
           "Description": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.",
           "Carrusel": "https://www.themoviedb.org/t/p/original/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg",
           "Trailer": "https://www.youtube.com/watch?v=LRMTr2VZcr8",
-          "Poster": "https://www.themoviedb.org/t/p/original/whILAFe8EqPLBlFfdscAr9qeZ.jpg"
+          "Poster": "https://www.themoviedb.org/t/p/original/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg"
         },
         {
           "id": "8",
@@ -472,7 +473,7 @@
           "Description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
           "Carrusel": "https://www.themoviedb.org/t/p/original/mGJuQwMq1bEboaVTqQAK4p4zQvC.jpg",
           "Trailer": "https://www.youtube.com/watch?v=odM92ap8_c0",
-          "Poster": "https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpgg"
+          "Poster": "https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg"
         },
         {
           "id": "37",
@@ -626,7 +627,7 @@
           "Description": "La Dra. Lily Houghton solicita la ayuda del bromista capitán Frank Wolff para llevarla por el Amazonas en su ruinoso barco. Juntos, buscan un árbol antiguo que tenga el poder de curar, un descubrimiento que cambiará el futuro de la medicina.",
           "Carrusel": "https://www.themoviedb.org/t/p/original/bwBmo4I3fqMsVvVtamyVJHXGnLF.jpg",
           "Trailer": "https://www.youtube.com/watch?v=ydnzilTiBcY",
-          "Poster": "hhttps://www.themoviedb.org/t/p/original/1cqD5DhwfUnMNblG9gozX6pyZMN.jpg"
+          "Poster": "https://www.themoviedb.org/t/p/original/1cqD5DhwfUnMNblG9gozX6pyZMN.jpg"
         },
         {
           "id": "50",
