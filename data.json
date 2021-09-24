@@ -143,19 +143,17 @@
     "usuario": [
       {
         "id": 1,
-        "apellido_paterno": "Garcia",
-        "apellido_materno": "Sanchez",
+        "apellido": "Garcia",
         "nombre": "Silvia",
-        "username": "garcia.s091@gmail.com",
+        "email": "garcia.s091@gmail.com",
         "password": "827ccb0eea8a706c4c34a16891f84e7b"
       },
       {
         "id": 2,
-        "apellido_paterno": "Cano",
-        "apellido_materno": "Garcia",
-        "nombre": "Daniel",
-        "username": "dcano@gmail.com",
-        "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        "apellido": "Leon",
+        "nombre": "Yudith",
+        "email": "yudithkleon@gmail.com",
+        "password": "12345"
       }
       
     ],
